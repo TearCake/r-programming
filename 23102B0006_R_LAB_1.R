@@ -91,7 +91,7 @@ missing_summary <- function(data){
   
   return(summary_df)
 }
-} # function block ends
+}
 
 # caller block
 {
